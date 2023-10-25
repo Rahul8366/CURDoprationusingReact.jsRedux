@@ -1,0 +1,5 @@
+1) In this project full based on the react.js using redux curd oprations
+using the node.js version is 16.17.1 
+2) and db.json using the json server use this commond to run ->npm run server, in get the details in thet url using to 
+do the curd oprations 
+3) run commond is npm start after extract the folder not having node models means first npm install after run 
